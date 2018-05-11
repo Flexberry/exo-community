@@ -1,1 +1,1 @@
-docker build -t ics/exo-community .
+docker build -t dh.ics.perm.ru/exo .
